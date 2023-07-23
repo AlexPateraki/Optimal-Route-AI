@@ -1,0 +1,4006 @@
+NAME of the GRAPH is:sampleGraph3.txt
+        DAY :  1
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (94.2) :11Node10e
+ Predicted Cost: 94.2   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (94.2) :11Node10e
+ Predicted Cost: 94.2   FINISHED  
+
+
+FINAL ACTUAL COST IS : 97.55
+FINAL ACTUAL COST IS : 97.55
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (97.55) :11Node10e
+ Predicted Cost: 97.55   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (97.55) :11Node10e
+ Predicted Cost: 97.55   FINISHED  
+
+
+        DAY :  2
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (69.75) :11Node5e=>
+16, (90.75) :11Node8e=>
+26, (109.75) :11Node10e
+ Predicted Cost: 109.75   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (69.75) :11Node5e=>
+16, (90.75) :11Node8e=>
+26, (109.75) :11Node10e
+ Predicted Cost: 109.75   FINISHED  
+
+
+FINAL ACTUAL COST IS : 103.0
+FINAL ACTUAL COST IS : 103.0
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+        DAY :  3
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+FINAL ACTUAL COST IS : 101.0
+FINAL ACTUAL COST IS : 101.0
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (96.7) :11Node10e
+ Predicted Cost: 96.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (96.7) :11Node10e
+ Predicted Cost: 96.7   FINISHED  
+
+
+        DAY :  4
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (107.35) :11Node10e
+ Predicted Cost: 107.35   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (107.35) :11Node10e
+ Predicted Cost: 107.35   FINISHED  
+
+
+FINAL ACTUAL COST IS : 99.1
+FINAL ACTUAL COST IS : 99.1
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (99.1) :11Node10e
+ Predicted Cost: 99.1   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (99.1) :11Node10e
+ Predicted Cost: 99.1   FINISHED  
+
+
+        DAY :  5
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+FINAL ACTUAL COST IS : 100.3
+FINAL ACTUAL COST IS : 100.3
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+        DAY :  6
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (94.2) :11Node10e
+ Predicted Cost: 94.2   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (94.2) :11Node10e
+ Predicted Cost: 94.2   FINISHED  
+
+
+FINAL ACTUAL COST IS : 102.45
+FINAL ACTUAL COST IS : 102.45
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+        DAY :  7
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+FINAL ACTUAL COST IS : 107.35
+FINAL ACTUAL COST IS : 107.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (66.15) :11Node5e=>
+16, (85.05) :11Node8e=>
+26, (102.15) :11Node10e
+ Predicted Cost: 102.15   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (66.15) :11Node5e=>
+16, (85.05) :11Node8e=>
+26, (102.15) :11Node10e
+ Predicted Cost: 102.15   FINISHED  
+
+
+        DAY :  8
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 41
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (66.15) :11Node5e=>
+16, (92.4) :11Node8e=>
+26, (111.4) :11Node10e
+ Predicted Cost: 111.4   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 41
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (66.15) :11Node5e=>
+16, (92.4) :11Node8e=>
+26, (111.4) :11Node10e
+ Predicted Cost: 111.4   FINISHED  
+
+
+FINAL ACTUAL COST IS : 116.15
+FINAL ACTUAL COST IS : 116.15
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (66.15) :11Node5e=>
+16, (92.4) :11Node8e=>
+26, (116.15) :11Node10e
+ Predicted Cost: 116.15   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 41
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (66.15) :11Node5e=>
+16, (92.4) :11Node8e=>
+26, (116.15) :11Node10e
+ Predicted Cost: 116.15   FINISHED  
+
+
+        DAY :  9
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+FINAL ACTUAL COST IS : 94.2
+FINAL ACTUAL COST IS : 94.2
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (94.2) :11Node10e
+ Predicted Cost: 94.2   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (94.2) :11Node10e
+ Predicted Cost: 94.2   FINISHED  
+
+
+        DAY :  10
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 101.0
+FINAL ACTUAL COST IS : 101.0
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 36
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (75.6) :11Node8e=>
+26, (94.6) :11Node10e
+ Predicted Cost: 94.6   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (75.6) :11Node8e=>
+26, (94.6) :11Node10e
+ Predicted Cost: 94.6   FINISHED  
+
+
+        DAY :  11
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.95
+FINAL ACTUAL COST IS : 109.95
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 41
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+        DAY :  12
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 97.7
+FINAL ACTUAL COST IS : 97.7
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+        DAY :  13
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 102.45
+FINAL ACTUAL COST IS : 102.45
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 34
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+        DAY :  14
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 104.35
+FINAL ACTUAL COST IS : 104.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (100.9) :11Node10e
+ Predicted Cost: 100.9   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (100.9) :11Node10e
+ Predicted Cost: 100.9   FINISHED  
+
+
+        DAY :  15
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 104.35
+FINAL ACTUAL COST IS : 104.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (104.35) :11Node10e
+ Predicted Cost: 104.35   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 41
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (104.35) :11Node10e
+ Predicted Cost: 104.35   FINISHED  
+
+
+        DAY :  16
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 102.45
+FINAL ACTUAL COST IS : 102.45
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+        DAY :  17
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 114.0
+FINAL ACTUAL COST IS : 114.0
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (114.0) :11Node10e
+ Predicted Cost: 114.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (114.0) :11Node10e
+ Predicted Cost: 114.0   FINISHED  
+
+
+        DAY :  18
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 113.25
+FINAL ACTUAL COST IS : 113.25
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (59.4) :11Node5e=>
+16, (78.3) :11Node8e=>
+26, (97.3) :11Node10e
+ Predicted Cost: 97.3   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 40
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (59.4) :11Node5e=>
+16, (78.3) :11Node8e=>
+26, (97.3) :11Node10e
+ Predicted Cost: 97.3   FINISHED  
+
+
+        DAY :  19
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 97.7
+FINAL ACTUAL COST IS : 97.7
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+        DAY :  20
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 104.35
+FINAL ACTUAL COST IS : 104.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 36
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+        DAY :  21
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 95.799995
+FINAL ACTUAL COST IS : 95.799995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+        DAY :  22
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 108.049995
+FINAL ACTUAL COST IS : 108.049995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (75.6) :11Node8e=>
+26, (92.7) :11Node10e
+ Predicted Cost: 92.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 41
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (75.6) :11Node8e=>
+26, (92.7) :11Node10e
+ Predicted Cost: 92.7   FINISHED  
+
+
+        DAY :  23
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 95.799995
+FINAL ACTUAL COST IS : 95.799995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+        DAY :  24
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.25
+FINAL ACTUAL COST IS : 109.25
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (109.25) :11Node10e
+ Predicted Cost: 109.25   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (109.25) :11Node10e
+ Predicted Cost: 109.25   FINISHED  
+
+
+        DAY :  25
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 108.049995
+FINAL ACTUAL COST IS : 108.049995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (98.4) :11Node10e
+ Predicted Cost: 98.4   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (98.4) :11Node10e
+ Predicted Cost: 98.4   FINISHED  
+
+
+        DAY :  26
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 104.35
+FINAL ACTUAL COST IS : 104.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (104.35) :11Node10e
+ Predicted Cost: 104.35   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (104.35) :11Node10e
+ Predicted Cost: 104.35   FINISHED  
+
+
+        DAY :  27
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.95
+FINAL ACTUAL COST IS : 109.95
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+        DAY :  28
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 114.0
+FINAL ACTUAL COST IS : 114.0
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 35
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (114.0) :11Node10e
+ Predicted Cost: 114.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (114.0) :11Node10e
+ Predicted Cost: 114.0   FINISHED  
+
+
+        DAY :  29
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 97.7
+FINAL ACTUAL COST IS : 97.7
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+        DAY :  30
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 102.45
+FINAL ACTUAL COST IS : 102.45
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 35
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (85.35) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+        DAY :  31
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 121.5
+FINAL ACTUAL COST IS : 121.5
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+        DAY :  32
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 108.049995
+FINAL ACTUAL COST IS : 108.049995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (79.2) :11Node8e=>
+26, (96.299995) :11Node10e
+ Predicted Cost: 96.299995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 41
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (79.2) :11Node8e=>
+26, (96.299995) :11Node10e
+ Predicted Cost: 96.299995   FINISHED  
+
+
+        DAY :  33
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 121.5
+FINAL ACTUAL COST IS : 121.5
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (96.7) :11Node10e
+ Predicted Cost: 96.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (96.7) :11Node10e
+ Predicted Cost: 96.7   FINISHED  
+
+
+        DAY :  34
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 95.799995
+FINAL ACTUAL COST IS : 95.799995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 40
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (94.799995) :11Node10e
+ Predicted Cost: 94.799995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+        DAY :  35
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 107.35
+FINAL ACTUAL COST IS : 107.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 36
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (89.25) :11Node8e=>
+26, (106.35) :11Node10e
+ Predicted Cost: 106.35   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (89.25) :11Node8e=>
+26, (106.35) :11Node10e
+ Predicted Cost: 106.35   FINISHED  
+
+
+        DAY :  36
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 92.8
+FINAL ACTUAL COST IS : 92.8
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 35
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (92.8) :11Node10e
+ Predicted Cost: 92.8   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (92.8) :11Node10e
+ Predicted Cost: 92.8   FINISHED  
+
+
+        DAY :  37
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 114.0
+FINAL ACTUAL COST IS : 114.0
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 41
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (114.0) :11Node10e
+ Predicted Cost: 114.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 42
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (114.0) :11Node10e
+ Predicted Cost: 114.0   FINISHED  
+
+
+        DAY :  38
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 95.799995
+FINAL ACTUAL COST IS : 95.799995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 35
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+        DAY :  39
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 121.5
+FINAL ACTUAL COST IS : 121.5
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (100.9) :11Node10e
+ Predicted Cost: 100.9   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 40
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (100.9) :11Node10e
+ Predicted Cost: 100.9   FINISHED  
+
+
+        DAY :  40
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 108.049995
+FINAL ACTUAL COST IS : 108.049995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (99.0) :11Node10e
+ Predicted Cost: 99.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 40
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (99.0) :11Node10e
+ Predicted Cost: 99.0   FINISHED  
+
+
+        DAY :  41
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 121.5
+FINAL ACTUAL COST IS : 121.5
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (100.9) :11Node10e
+ Predicted Cost: 100.9   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (100.9) :11Node10e
+ Predicted Cost: 100.9   FINISHED  
+
+
+        DAY :  42
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 108.049995
+FINAL ACTUAL COST IS : 108.049995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (90.95) :11Node8e=>
+26, (108.049995) :11Node10e
+ Predicted Cost: 108.049995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (90.95) :11Node8e=>
+26, (108.049995) :11Node10e
+ Predicted Cost: 108.049995   FINISHED  
+
+
+        DAY :  43
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.25
+FINAL ACTUAL COST IS : 109.25
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (109.25) :11Node10e
+ Predicted Cost: 109.25   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (109.25) :11Node10e
+ Predicted Cost: 109.25   FINISHED  
+
+
+        DAY :  44
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 108.049995
+FINAL ACTUAL COST IS : 108.049995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (94.799995) :11Node10e
+ Predicted Cost: 94.799995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (94.799995) :11Node10e
+ Predicted Cost: 94.799995   FINISHED  
+
+
+        DAY :  45
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.95
+FINAL ACTUAL COST IS : 109.95
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (59.4) :11Node5e=>
+16, (80.4) :11Node8e=>
+26, (99.4) :11Node10e
+ Predicted Cost: 99.4   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (59.4) :11Node5e=>
+16, (80.4) :11Node8e=>
+26, (99.4) :11Node10e
+ Predicted Cost: 99.4   FINISHED  
+
+
+        DAY :  46
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 121.5
+FINAL ACTUAL COST IS : 121.5
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+        DAY :  47
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 92.8
+FINAL ACTUAL COST IS : 92.8
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (92.8) :11Node10e
+ Predicted Cost: 92.8   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (92.8) :11Node10e
+ Predicted Cost: 92.8   FINISHED  
+
+
+        DAY :  48
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 108.049995
+FINAL ACTUAL COST IS : 108.049995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (89.25) :11Node8e=>
+26, (106.35) :11Node10e
+ Predicted Cost: 106.35   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (89.25) :11Node8e=>
+26, (106.35) :11Node10e
+ Predicted Cost: 106.35   FINISHED  
+
+
+        DAY :  49
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.25
+FINAL ACTUAL COST IS : 109.25
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 36
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (89.25) :11Node8e=>
+26, (108.25) :11Node10e
+ Predicted Cost: 108.25   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (89.25) :11Node8e=>
+26, (108.25) :11Node10e
+ Predicted Cost: 108.25   FINISHED  
+
+
+        DAY :  50
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 97.7
+FINAL ACTUAL COST IS : 97.7
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (97.7) :11Node10e
+ Predicted Cost: 97.7   FINISHED  
+
+
+        DAY :  51
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 107.35
+FINAL ACTUAL COST IS : 107.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (99.0) :11Node10e
+ Predicted Cost: 99.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (81.9) :11Node8e=>
+26, (99.0) :11Node10e
+ Predicted Cost: 99.0   FINISHED  
+
+
+        DAY :  52
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 107.35
+FINAL ACTUAL COST IS : 107.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (98.4) :11Node10e
+ Predicted Cost: 98.4   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (98.4) :11Node10e
+ Predicted Cost: 98.4   FINISHED  
+
+
+        DAY :  53
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 97.55
+FINAL ACTUAL COST IS : 97.55
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (97.55) :11Node10e
+ Predicted Cost: 97.55   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (97.55) :11Node10e
+ Predicted Cost: 97.55   FINISHED  
+
+
+        DAY :  54
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.25
+FINAL ACTUAL COST IS : 109.25
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (109.25) :11Node10e
+ Predicted Cost: 109.25   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 41
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (109.25) :11Node10e
+ Predicted Cost: 109.25   FINISHED  
+
+
+        DAY :  55
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 90.9
+FINAL ACTUAL COST IS : 90.9
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (90.9) :11Node10e
+ Predicted Cost: 90.9   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (90.9) :11Node10e
+ Predicted Cost: 90.9   FINISHED  
+
+
+        DAY :  56
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 102.45
+FINAL ACTUAL COST IS : 102.45
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (102.45) :11Node10e
+ Predicted Cost: 102.45   FINISHED  
+
+
+        DAY :  57
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 119.6
+FINAL ACTUAL COST IS : 119.6
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (69.75) :11Node5e=>
+16, (90.75) :11Node8e=>
+26, (107.85) :11Node10e
+ Predicted Cost: 107.85   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 40
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (69.75) :11Node5e=>
+16, (90.75) :11Node8e=>
+26, (107.85) :11Node10e
+ Predicted Cost: 107.85   FINISHED  
+
+
+        DAY :  58
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 121.5
+FINAL ACTUAL COST IS : 121.5
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+        DAY :  59
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 111.35
+FINAL ACTUAL COST IS : 111.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (94.25) :11Node8e=>
+26, (111.35) :11Node10e
+ Predicted Cost: 111.35   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 41
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (94.25) :11Node8e=>
+26, (111.35) :11Node10e
+ Predicted Cost: 111.35   FINISHED  
+
+
+        DAY :  60
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 96.1
+FINAL ACTUAL COST IS : 96.1
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (96.1) :11Node10e
+ Predicted Cost: 96.1   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (96.1) :11Node10e
+ Predicted Cost: 96.1   FINISHED  
+
+
+        DAY :  61
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 126.25
+FINAL ACTUAL COST IS : 126.25
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 36
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (105.05) :11Node10e
+ Predicted Cost: 105.05   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (105.05) :11Node10e
+ Predicted Cost: 105.05   FINISHED  
+
+
+        DAY :  62
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 90.9
+FINAL ACTUAL COST IS : 90.9
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (90.9) :11Node10e
+ Predicted Cost: 90.9   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (90.9) :11Node10e
+ Predicted Cost: 90.9   FINISHED  
+
+
+        DAY :  63
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 92.8
+FINAL ACTUAL COST IS : 92.8
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (92.8) :11Node10e
+ Predicted Cost: 92.8   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (92.8) :11Node10e
+ Predicted Cost: 92.8   FINISHED  
+
+
+        DAY :  64
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 92.8
+FINAL ACTUAL COST IS : 92.8
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (92.8) :11Node10e
+ Predicted Cost: 92.8   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (73.8) :11Node8e=>
+26, (92.8) :11Node10e
+ Predicted Cost: 92.8   FINISHED  
+
+
+        DAY :  65
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 94.2
+FINAL ACTUAL COST IS : 94.2
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (94.2) :11Node10e
+ Predicted Cost: 94.2   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (94.2) :11Node10e
+ Predicted Cost: 94.2   FINISHED  
+
+
+        DAY :  66
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.95
+FINAL ACTUAL COST IS : 109.95
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 36
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (96.7) :11Node10e
+ Predicted Cost: 96.7   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (56.7) :11Node5e=>
+16, (77.7) :11Node8e=>
+26, (96.7) :11Node10e
+ Predicted Cost: 96.7   FINISHED  
+
+
+        DAY :  67
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 96.1
+FINAL ACTUAL COST IS : 96.1
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (77.1) :11Node8e=>
+26, (96.1) :11Node10e
+ Predicted Cost: 96.1   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (59.4) :11Node5e=>
+16, (78.3) :11Node8e=>
+26, (97.3) :11Node10e
+ Predicted Cost: 97.3   FINISHED  
+
+
+        DAY :  68
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.95
+FINAL ACTUAL COST IS : 109.95
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 36
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 39
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (63.0) :11Node5e=>
+16, (84.0) :11Node8e=>
+26, (103.0) :11Node10e
+ Predicted Cost: 103.0   FINISHED  
+
+
+        DAY :  69
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 99.1
+FINAL ACTUAL COST IS : 99.1
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (99.1) :11Node10e
+ Predicted Cost: 99.1   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 39
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (99.1) :11Node10e
+ Predicted Cost: 99.1   FINISHED  
+
+
+        DAY :  70
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.25
+FINAL ACTUAL COST IS : 109.25
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (100.3) :11Node10e
+ Predicted Cost: 100.3   FINISHED  
+
+
+        DAY :  71
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 119.6
+FINAL ACTUAL COST IS : 119.6
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 40
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (102.5) :11Node8e=>
+26, (119.6) :11Node10e
+ Predicted Cost: 119.6   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 42
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (102.5) :11Node8e=>
+26, (119.6) :11Node10e
+ Predicted Cost: 119.6   FINISHED  
+
+
+        DAY :  72
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 119.6
+FINAL ACTUAL COST IS : 119.6
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (45.0) :10Node6e=>
+29, (72.0) :11Node5e=>
+16, (90.9) :11Node8e=>
+26, (108.0) :11Node10e
+ Predicted Cost: 108.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 40
+5, (0.0) :10Node4e=>
+14, (45.0) :10Node6e=>
+29, (72.0) :11Node5e=>
+16, (90.9) :11Node8e=>
+26, (108.0) :11Node10e
+ Predicted Cost: 108.0   FINISHED  
+
+
+        DAY :  73
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 107.35
+FINAL ACTUAL COST IS : 107.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (86.55) :11Node8e=>
+26, (103.65) :11Node10e
+ Predicted Cost: 103.65   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (86.55) :11Node8e=>
+26, (103.65) :11Node10e
+ Predicted Cost: 103.65   FINISHED  
+
+
+        DAY :  74
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 119.6
+FINAL ACTUAL COST IS : 119.6
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (98.4) :11Node10e
+ Predicted Cost: 98.4   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (98.4) :11Node10e
+ Predicted Cost: 98.4   FINISHED  
+
+
+        DAY :  75
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 95.799995
+FINAL ACTUAL COST IS : 95.799995
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (78.7) :11Node8e=>
+26, (95.799995) :11Node10e
+ Predicted Cost: 95.799995   FINISHED  
+
+
+        DAY :  76
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 109.95
+FINAL ACTUAL COST IS : 109.95
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 37
+5, (0.0) :10Node4e=>
+14, (45.0) :10Node6e=>
+29, (69.3) :11Node5e=>
+16, (90.3) :11Node8e=>
+26, (109.3) :11Node10e
+ Predicted Cost: 109.3   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (29.7) :10Node5e=>
+16, (90.95) :11Node8e=>
+26, (109.95) :11Node10e
+ Predicted Cost: 109.95   FINISHED  
+
+
+        DAY :  77
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 107.35
+FINAL ACTUAL COST IS : 107.35
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (107.35) :11Node10e
+ Predicted Cost: 107.35   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 38
+5, (0.0) :10Node4e=>
+30, (41.25) :10Node5e=>
+16, (90.25) :11Node8e=>
+26, (107.35) :11Node10e
+ Predicted Cost: 107.35   FINISHED  
+
+
+        DAY :  78
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 119.6
+FINAL ACTUAL COST IS : 119.6
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 35
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (98.4) :11Node10e
+ Predicted Cost: 98.4   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (36.0) :10Node6e=>
+29, (60.3) :11Node5e=>
+16, (81.3) :11Node8e=>
+26, (98.4) :11Node10e
+ Predicted Cost: 98.4   FINISHED  
+
+
+        DAY :  79
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 99.1
+FINAL ACTUAL COST IS : 99.1
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 35
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (99.1) :11Node10e
+ Predicted Cost: 99.1   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (99.1) :11Node10e
+ Predicted Cost: 99.1   FINISHED  
+
+
+        DAY :  80
+Press "ENTER" to continue...
+hiiiiii source:5  dest:26
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 36
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 4
+executionTime: 37
+5, (0.0) :10Node4e=>
+30, (33.0) :10Node5e=>
+16, (82.0) :11Node8e=>
+26, (101.0) :11Node10e
+ Predicted Cost: 101.0   FINISHED  
+
+
+FINAL ACTUAL COST IS : 113.25
+FINAL ACTUAL COST IS : 113.25
+
+
+
+FIND the best actual road when the day has passed
+<<<Uninformed Search Algorithm>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 34
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (59.4) :11Node5e=>
+16, (85.65) :11Node8e=>
+26, (104.65) :11Node10e
+ Predicted Cost: 104.65   FINISHED  
+
+
+<<<IDA*>: finalnode26 counter1
+Visited Nodes number: 5
+executionTime: 38
+5, (0.0) :10Node4e=>
+14, (32.4) :10Node6e=>
+29, (59.4) :11Node5e=>
+16, (85.65) :11Node8e=>
+26, (104.65) :11Node10e
+ Predicted Cost: 104.65   FINISHED  
+
+
